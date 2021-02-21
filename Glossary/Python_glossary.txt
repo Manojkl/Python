@@ -1,10 +1,10 @@
-Standalone program 
+1) Standalone program 
 A software that is able to operate independently of other software or harware.
 
-Built-in Types 
+2) Built-in Types 
 The principal built-in types are numerics, sequences, mappings, classes, instances and exceptions. Ex. Boolean operation, comparison, Numberic types( int, flot)
 
-Statically typed programming
+3) Statically typed programming
 Statically typed programming languages do type checking (i.e. the process of verifying and enforcing the constraints of types) at compile-time as opposed to run-time. Ex. Java, C++, C
 
 import ("fmt"
@@ -24,7 +24,7 @@ func main() {
 
 Raise error during compile time.  
 
-Dynamically typed programming
+4) Dynamically typed programming
 Dynamically typed programming languages do type checking at run-time as opposed to compile-time. Ex. Perl, Ruby, Python, PHP, JavaScript
 Ex. def silly(a):
     if a > 0:
@@ -33,9 +33,9 @@ Ex. def silly(a):
         print 5 + '3'
 No error but raises error when a < 0        
 
-Compile time
+5) Compile time
 Compile time is when the program is compiled
 
-Run time
+6) Run time
 Runtime is when it executes (on either a physical or virtual computer)
 
